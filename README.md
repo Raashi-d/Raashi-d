@@ -15,13 +15,17 @@
 
 <h1 align="center">hey there 👋  I'm Mohamed Raashid</h1>
 
-###
+<p align="center">
+  <a href="https://github.com/Raashi-d">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=435&lines=~+Welcome+to+my+GitHub+Profile+~;Full+Stack+Developer+💻;Passionate+About+UI%2FUX+Design+🎨;Always+Exploring+New+Technologies+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I’m a passionate National Diploma in Technology - Information Technology student currently honing my skills in software development. I enjoy working with web and mobile app technologies, and I’m experienced in using frameworks like Flutter and React, along with Node.js and MongoDB for backend and database management.<br><br>My current projects include developing a travel app. I’m always eager to learn and grow, whether it’s diving into new technologies or improving my coding practices.<br><br>Feel free to connect with me to collaborate or just chat about tech! 😄</p>
+<p align="left">I’m a passionate National Diploma in Technology - Information Technology student currently honing my skills in software development. I enjoy working with web and mobile app technologies, and I’m experienced in using frameworks like Flutter and React, along with Node.js and MongoDB for backend and database management.My current projects include developing a travel app. 
 
 ###
 
