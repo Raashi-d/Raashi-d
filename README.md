@@ -1,8 +1,9 @@
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://www.linkedin.com/in/mohamed-raashid/overlay/background-image/"  />
-</div>
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/a047063e-7079-4c4f-a0f7-9577bb7979a8" width="100%" title="Intro Card" alt="Intro Card"  />
+</p>
 
 ###
 
